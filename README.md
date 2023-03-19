@@ -18,5 +18,6 @@
 
 [Trello](https://trello.com/b/te4Vv5fE/приложение-мойфкн)  
 [Miro](https://miro.com/app/board/uXjVPhcWoLY=/?share_link_id=771108234084)  
+[Figma](https://www.figma.com/file/DopwgW45LS9UbFylhgvYmt/MyCSF?node-id=0%3A1&t=l4qMSLmUmRcVlpkA-1)  
 [Курсовой проект](https://docs.google.com/document/d/1CuWijevmPyR2Y2TFcxg5L4udHbnMZBD2f_SdLXG1Ke8/edit?usp=sharing)  
 [Техническое задание](https://docs.google.com/document/d/18AAr2G9XfXHtMbj_PB2hEUR392RzCPrMKvD3tBjSySI/edit?usp=sharing)
