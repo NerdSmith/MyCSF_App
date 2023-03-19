@@ -1,17 +1,22 @@
 # ТП-3-4
+
 Приложение "Мой ФКН"
 
 Студенты:
-* [Мерзляков Никита](https://github.com/NerdSmith "Мерзляков Никита")
-* [Кулинченко Дмитрий](https://github.com/fxxozy "Кулинченко Дмитрий")
-* [Сиваков Артем](https://github.com/MoonBadger "Сиваков Артем")
 
-Тема: (мобильное) приложение "Мой ФКН". связка с мудл и брс, вывод расписания для конкретной группы, чаты с преподавателями  
+-   [Мерзляков Никита](https://github.com/NerdSmith "Мерзляков Никита")
+-   [Кулинченко Дмитрий](https://github.com/fxxozy "Кулинченко Дмитрий")
+-   [Сиваков Артем](https://github.com/MoonBadger "Сиваков Артем")
 
-Нововведения:  
-* ИИ ассистент
-* Карта факультета
-* Календарь с датами дедлайнов и аттестаций
+Тема: (мобильное) приложение "Мой ФКН". связка с мудл и брс, вывод расписания для конкретной группы, чаты с преподавателями.
+
+Нововведения:
+
+-   ИИ ассистент
+-   Карта факультета
+-   Календарь с датами дедлайнов и аттестаций
 
 [Trello](https://trello.com/b/te4Vv5fE/приложение-мойфкн)  
-[Miro](https://miro.com/app/board/uXjVPhcWoLY=/?share_link_id=771108234084)                
+[Miro](https://miro.com/app/board/uXjVPhcWoLY=/?share_link_id=771108234084)  
+[Курсовой проект](https://docs.google.com/document/d/1CuWijevmPyR2Y2TFcxg5L4udHbnMZBD2f_SdLXG1Ke8/edit?usp=sharing)  
+[Техническое задание](https://docs.google.com/document/d/18AAr2G9XfXHtMbj_PB2hEUR392RzCPrMKvD3tBjSySI/edit?usp=sharing)
