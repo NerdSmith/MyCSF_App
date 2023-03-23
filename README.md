@@ -26,5 +26,10 @@
 
 ## Документация
 
-[Курсовой проект](https://docs.google.com/document/d/1CuWijevmPyR2Y2TFcxg5L4udHbnMZBD2f_SdLXG1Ke8/edit?usp=sharing)  
-[Техническое задание](https://docs.google.com/document/d/18AAr2G9XfXHtMbj_PB2hEUR392RzCPrMKvD3tBjSySI/edit?usp=sharing)
+Курсовой проект
+[(Google Docs)](https://docs.google.com/document/d/1CuWijevmPyR2Y2TFcxg5L4udHbnMZBD2f_SdLXG1Ke8/edit?usp=sharing)
+
+Техническое задание
+[(Google Docs)](https://docs.google.com/document/d/18AAr2G9XfXHtMbj_PB2hEUR392RzCPrMKvD3tBjSySI/edit?usp=sharing)
+[(Docx)](documentation/Техническое Задание Мой ФКН.docx)
+[(Pdf)](documentation/Техническое Задание Мой ФКН.pdf)
