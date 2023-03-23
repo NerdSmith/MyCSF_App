@@ -28,6 +28,8 @@
 
 Курсовой проект
 [(Google Docs)](https://docs.google.com/document/d/1CuWijevmPyR2Y2TFcxg5L4udHbnMZBD2f_SdLXG1Ke8/edit?usp=sharing)
+[(Docx)](documentation/Курсовой_проект_Мой_ФКН.docx)
+[(Pdf)](documentation/Курсовой_проект_Мой_ФКН.pdf)
 
 Техническое задание
 [(Google Docs)](https://docs.google.com/document/d/18AAr2G9XfXHtMbj_PB2hEUR392RzCPrMKvD3tBjSySI/edit?usp=sharing)
