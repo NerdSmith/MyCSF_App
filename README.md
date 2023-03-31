@@ -37,3 +37,7 @@
 [(Pdf)](documentation/Техническое_Задание_Мой_ФКН.pdf)
 
 <!-- [(Google Docs)](https://docs.google.com/document/d/18AAr2G9XfXHtMbj_PB2hEUR392RzCPrMKvD3tBjSySI/edit?usp=sharing) -->
+
+Презентация проекта
+[(mp4)](https://drive.google.com/file/d/1oMVBz8HnkSHhfLzt6Uq0_Az946LqTqvD/view?usp=sharing)
+[(pptx)](documentation/Презентация_Мой_ФКН.pptx)
