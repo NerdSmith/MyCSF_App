@@ -7,6 +7,7 @@
 -   [Мерзляков Никита](https://github.com/NerdSmith "Мерзляков Никита")
 -   [Кулинченко Дмитрий](https://github.com/fxxozy "Кулинченко Дмитрий")
 -   [Сиваков Артем](https://github.com/MoonBadger "Сиваков Артем")
+-   [Кудинов Иван](https://github.com/joolsoul "Кудинов Иван")
 
 ### Тема:
 
