@@ -23,7 +23,7 @@
 
 [Trello](https://trello.com/b/te4Vv5fE/приложение-мойфкн)  
 [Miro](https://miro.com/app/board/uXjVPhcWoLY=/?share_link_id=771108234084)  
-[Figma](https://www.figma.com/file/DopwgW45LS9UbFylhgvYmt/MyCSF?node-id=0%3A1&t=l4qMSLmUmRcVlpkA-1)
+[Figma](https://www.figma.com/file/DopwgW45LS9UbFylhgvYmt/MyCSF?node-id=226%3A202&t=ePXwYmDBBPWU8yu9-1)
 
 ## Документация
 
