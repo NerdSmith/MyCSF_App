@@ -1,3 +1,6 @@
 [submodule "application/MyCSF_App_server"]
 	path = application/MyCSF_App_server
 	url = https://github.com/joolsoul/MyCSF_App_server.git
+[submodule "application/MyCSF_App_client"]
+	path = application/MyCSF_App_client
+	url = https://github.com/NerdSmith/MyCSF_App_client.git
