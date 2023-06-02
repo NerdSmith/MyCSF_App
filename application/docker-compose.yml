@@ -8,7 +8,6 @@ services:
     command: gunicorn config.wsgi:application --bind 0.0.0.0:4000
     volumes:
       - static_volume:/home/app/web/staticfiles
-      - comm_volume:/home/app/web
       - media_volume:/home/app/web/media
     expose:
       - 4000
@@ -39,4 +38,3 @@ volumes:
   postgres_data:
   static_volume:
   media_volume:
-  comm_volume:
