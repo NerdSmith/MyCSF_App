@@ -23,7 +23,9 @@
 
 [Trello](https://trello.com/b/te4Vv5fE/приложение-мойфкн)  
 [Miro](https://miro.com/app/board/uXjVPhcWoLY=/?share_link_id=771108234084)  
-[Figma](https://www.figma.com/file/DopwgW45LS9UbFylhgvYmt/MyCSF?node-id=226%3A202&t=ePXwYmDBBPWU8yu9-1)
+[Figma](https://www.figma.com/file/DopwgW45LS9UbFylhgvYmt/MyCSF?node-id=226%3A202&t=ePXwYmDBBPWU8yu9-1)  
+[My CSF API Admin Panel](http://195.133.10.48:4000/admin/)  
+[My CSF API Swagger](http://195.133.10.48:4000/swagger/)
 
 ## Документация
 
@@ -39,10 +41,12 @@
 
 <!-- [(Google Docs)](https://docs.google.com/document/d/18AAr2G9XfXHtMbj_PB2hEUR392RzCPrMKvD3tBjSySI/edit?usp=sharing) -->
 
-Презентации проекта  
+## Презентации проекта
+
 [ТЗ видео (1 атт.)](https://drive.google.com/file/d/1oMVBz8HnkSHhfLzt6Uq0_Az946LqTqvD/view?usp=sharing)  
 [ТЗ презентация (1 атт.)](documentation/Презентация_Мой_ФКН.pptx)  
 [Видеообзоры back-end'а, front-end'а, приложения и деплоя](https://drive.google.com/drive/folders/1qXeSiRaVJ_RHQ0nB2nRIr0ijhOAaAzAM?usp=drive_link)
 
-Аналитика приложения  
+## Аналитика приложения
+
 [Скриншоты](analytics/)
