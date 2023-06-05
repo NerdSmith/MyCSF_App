@@ -45,7 +45,7 @@
 ## Презентации проекта
 
 [ТЗ видео (1 атт.)](https://drive.google.com/file/d/1oMVBz8HnkSHhfLzt6Uq0_Az946LqTqvD/view?usp=sharing)  
-[ТЗ презентация (1 атт.)](documentation/Презентация_Мой_ФКН.pptx)  
+[Презентация](documentation/Презентация_Мой_ФКН.pptx)  
 [Видеообзоры back-end'а, front-end'а, приложения и деплоя](https://drive.google.com/drive/folders/1qXeSiRaVJ_RHQ0nB2nRIr0ijhOAaAzAM?usp=drive_link)
 
 ## Аналитика приложения
