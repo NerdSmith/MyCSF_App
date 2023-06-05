@@ -11,11 +11,11 @@
 
 ### Тема:
 
-Мобильное приложение "Мой ФКН". Связка с Moodle и BRS, вывод расписания для конкретной группы, чаты с преподавателями.
+Мобильное приложение "Мой ФКН". Связка с Moodle и BRS, расписания для пользователей, чаты.
 
 ### Нововведения:
 
--   ИИ ассистент
+-   Чат-бот
 -   Карта факультета
 -   Календарь с датами событий (дедлайны, аттестации и т.д.)
 
@@ -39,6 +39,10 @@
 
 <!-- [(Google Docs)](https://docs.google.com/document/d/18AAr2G9XfXHtMbj_PB2hEUR392RzCPrMKvD3tBjSySI/edit?usp=sharing) -->
 
-Презентация проекта
-[(mp4)](https://drive.google.com/file/d/1oMVBz8HnkSHhfLzt6Uq0_Az946LqTqvD/view?usp=sharing)
-[(pptx)](documentation/Презентация_Мой_ФКН.pptx)
+Презентации проекта  
+[ТЗ видео (1 атт.)](https://drive.google.com/file/d/1oMVBz8HnkSHhfLzt6Uq0_Az946LqTqvD/view?usp=sharing)  
+[ТЗ презентация (1 атт.)](documentation/Презентация_Мой_ФКН.pptx)  
+[Видеообзоры back-end'а, front-end'а, приложения и деплоя](https://drive.google.com/drive/folders/1qXeSiRaVJ_RHQ0nB2nRIr0ijhOAaAzAM?usp=drive_link)
+
+Аналитика приложения  
+[Скриншоты](analytics/)

@@ -5,3 +5,4 @@ docker-compose exec web python manage.py collectstatic --no-input --clear
 docker-compose exec web python manage.py makemigrations api
 docker-compose exec web python manage.py migrate --noinput
 docker-compose exec web python manage.py createsuperuser --username=ns --email=merzlyakov02@gmail.com --noinput
+docker-compose exec web python manage.py crontab add
