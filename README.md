@@ -40,6 +40,9 @@
 [(Docx)](documentation/Техническое_Задание_Мой_ФКН.docx)
 [(Pdf)](documentation/Техническое_Задание_Мой_ФКН.pdf)
 
+Сопроводительное письмо
+[(Docx)](documentation/Сопроводительное_письмо.docx)
+
 <!-- [(Google Docs)](https://docs.google.com/document/d/18AAr2G9XfXHtMbj_PB2hEUR392RzCPrMKvD3tBjSySI/edit?usp=sharing) -->
 
 ## Презентации проекта
