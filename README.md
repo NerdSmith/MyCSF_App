@@ -25,7 +25,8 @@
 [Miro](https://miro.com/app/board/uXjVPhcWoLY=/?share_link_id=771108234084)  
 [Figma](https://www.figma.com/file/DopwgW45LS9UbFylhgvYmt/MyCSF?node-id=226%3A202&t=ePXwYmDBBPWU8yu9-1)  
 [My CSF API Admin Panel](http://195.133.10.48:4000/admin/)  
-[My CSF API Swagger](http://195.133.10.48:4000/swagger/)
+[My CSF API Swagger](http://195.133.10.48:4000/swagger/)  
+[My CSF applications](https://drive.google.com/drive/folders/1Rq35xuQKUsjwxmmetATuh8Y3KCF12Oy6?usp=drive_link)
 
 ## Документация
 
@@ -63,3 +64,26 @@ pass: 1029qpwo
 
 _Администратор_  
 В связи с тем, что от данных хранящихся на сервере зависит работоспособность приложения, за данными для входа, пожалуйста, обращайтесь в ТГ к [Мерзлякову Никите](https://t.me/nerdsmith) или [Кудинову Ивану](https://t.me/krysstaIl)
+
+## Инструкция для запуска
+
+Перейти в директорию приложения
+
+```
+cd application
+```
+
+Создать конфигурационные файлы .env и .env.db и НЕОБХОДИМО ИХ ЗАПОЛНИТЬ КЛЮЧАМИ
+
+```
+touch .env
+touch .env.db
+```
+
+Запустить docker-compose.yml
+
+```
+docker compose up -d
+```
+
+Готово, приложение должно работать на порту :4000
